@@ -41,7 +41,7 @@ export const Navbar: React.FC = () => {
             >
               <div className="relative w-10 h-10 rounded-full border border-[#10B981]/50 bg-[#111111] flex items-center justify-center overflow-hidden shadow-inner">
                 <img 
-                  src="/public/images/logo.jpg" 
+                  src="/images/logo.jpg" 
                   alt="ShangSounds" 
                   className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-300"
                   referrerPolicy="no-referrer"

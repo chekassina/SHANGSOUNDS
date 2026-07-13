@@ -157,7 +157,7 @@ function AppContent() {
           <div className="flex items-center space-x-2 group mb-6">
             <div className="relative w-8 h-8 rounded-full border border-[#10B981]/20 bg-[#111111] flex items-center justify-center overflow-hidden">
               <img 
-                src="/public/images/logo.jpg" 
+                src="/images/logo.jpg" 
                 alt="ShangSounds" 
                 className="w-full h-full object-cover"
                 referrerPolicy="no-referrer"

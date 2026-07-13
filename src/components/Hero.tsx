@@ -30,7 +30,7 @@ export const Hero: React.FC = () => {
       {/* Background Image with Dark Vignette */}
       <div className="absolute inset-0 z-0">
         <img 
-          src="/public/images/lap5.jpg" 
+          src="/images/lap5.jpg" 
           alt="Shangombo Sunset Background" 
           className="w-full h-full object-cover scale-105 filter brightness-[0.35] contrast-[1.05]"
           referrerPolicy="no-referrer"

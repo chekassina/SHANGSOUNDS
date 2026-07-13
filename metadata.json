@@ -1,0 +1,6 @@
+{
+  "name": "ShangSounds",
+  "description": "The official online brand presence of ShangSounds, a Zambia-based music and entertainment brand showcasing authentic local storytelling and modern sound.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
